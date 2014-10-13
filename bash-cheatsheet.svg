@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.064381"
-     inkscape:cx="526.18109"
-     inkscape:cy="372.04724"
+     inkscape:cx="526.18107"
+     inkscape:cy="372.04723"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -236,19 +236,19 @@
            id="tspan3921"
            y="627.36218"
            x="220"
-           sodipodi:role="line">chown  chmod  umask</tspan><tspan
+           sodipodi:role="line">chown  chmod  touch  umask</tspan><tspan
            id="tspan3925"
            y="642.36218"
            x="220"
-           sodipodi:role="line">du     stat   touch</tspan><tspan
-           id="tspan5928"
+           sodipodi:role="line">du     file   stat   test</tspan><tspan
+           id="tspan6142"
            y="657.36218"
            x="220"
-           sodipodi:role="line">file   test   which</tspan><tspan
-           id="tspan6142"
+           sodipodi:role="line">readlink      which</tspan><tspan
            y="672.36218"
            x="220"
-           sodipodi:role="line">basename      dirname</tspan></text>
+           sodipodi:role="line"
+           id="tspan4134">basename      dirname</tspan></text>
     </g>
     <g
        id="g6411"
@@ -582,7 +582,7 @@
            height="159.71725"
            x="405.86972"
            y="479.15176" /></flowRegion><flowPara
-         id="flowPara4452"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4452" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4454"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Monospace;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Monospace;font-stretch:normal;font-variant:normal"><flowRegion
@@ -592,7 +592,7 @@
            height="90.193268"
            x="601.28845"
            y="574.98212" /></flowRegion><flowPara
-         id="flowPara4460"></flowPara></flowRoot>    <g
+         id="flowPara4460" /></flowRoot>    <g
        id="g4622"
        transform="translate(10,-280)">
       <rect
@@ -685,52 +685,7 @@
       <image
          width="88"
          height="31"
-         xlink:href="data:image/png;base64,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
-AAAASUVORK5CYII=
-"
+         xlink:href="data:image/png;base64,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 AAAASUVORK5CYII= "
          id="image4566"
          x="182"
          y="351.36218" />
@@ -779,79 +734,87 @@ AAAASUVORK5CYII=
            sodipodi:role="line">TAB complete  UP/DOWN history</tspan></text>
     </g>
     <g
-       id="g6945">
+       id="g4112">
       <text
          sodipodi:linespacing="125%"
          id="text3915-3-8"
-         y="842.36218"
+         y="812.36218"
          x="40"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
            id="tspan5623"
-           y="842.36218"
+           y="812.36218"
            x="40"
            sodipodi:role="line">id        groups  who</tspan><tspan
            id="tspan6220"
-           y="857.36218"
+           y="827.36218"
            x="40"
            sodipodi:role="line">mktemp    renice</tspan><tspan
            id="tspan6222"
-           y="872.36218"
+           y="842.36218"
            x="40"
            sodipodi:role="line">printf    iconv   strings</tspan><tspan
            id="tspan6218"
-           y="887.36218"
+           y="857.36218"
            x="40"
            sodipodi:role="line" /><tspan
            id="tspan5566"
-           y="902.36218"
+           y="872.36218"
            x="40"
            sodipodi:role="line">crontab   time    watch</tspan><tspan
            id="tspan5307"
-           y="917.36218"
+           y="887.36218"
            x="40"
            sodipodi:role="line">tar       zip</tspan><tspan
            id="tspan5001"
-           y="932.36218"
+           y="902.36218"
            x="40"
            sodipodi:role="line">whiptail  zenity</tspan><tspan
-           id="tspan4999"
-           y="947.36218"
-           x="40"
-           sodipodi:role="line" /><tspan
            id="tspan6228"
-           y="962.36218"
+           y="917.36218"
            x="40"
            sodipodi:role="line">perl      python  ruby</tspan><tspan
-           id="tspan5637"
-           y="977.36218"
+           id="tspan5629"
+           y="932.36218"
            x="40"
            sodipodi:role="line">less      nano    vim</tspan><tspan
-           id="tspan5629"
+           id="tspan5941"
+           y="947.36218"
+           x="40"
+           sodipodi:role="line">ack       git     tree</tspan><tspan
+           id="tspan4095"
+           y="962.36218"
+           x="40"
+           sodipodi:role="line">diff      patch</tspan><tspan
+           id="tspan4102"
+           y="977.36218"
+           x="40"
+           sodipodi:role="line">cal       date</tspan><tspan
+           id="tspan4104"
            y="992.36218"
            x="40"
-           sodipodi:role="line">mutt      rsync   screen</tspan><tspan
-           id="tspan5941"
+           sodipodi:role="line"></tspan><tspan
+           id="tspan4110"
            y="1007.3622"
            x="40"
-           sodipodi:role="line">ack       diff    git</tspan></text>
+           sodipodi:role="line">mutt      rsync   screen</tspan></text>
       <rect
-         ry="17.807133"
-         y="802.36218"
+         ry="20.235378"
+         y="772.36218"
          x="30"
-         height="219.99997"
+         height="249.99997"
          width="200"
          id="rect3757-1-9-4-0-2"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3798-5-59-9-4"
-         y="822.36218"
+         y="792.36218"
          x="40"
          style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-           y="822.36218"
+           y="792.36218"
            x="40"
            id="tspan3800-6-9-3-7"
            sodipodi:role="line">miscellaneous</tspan></text>
@@ -1083,59 +1046,54 @@ AAAASUVORK5CYII=
            sodipodi:role="line">mv foo-{bar,baz}</tspan></text>
     </g>
     <g
-       id="g6707"
-       transform="translate(-400,140)">
+       id="g4068">
       <rect
-         ry="10.522397"
-         y="512.36218"
-         x="430"
-         height="129.99998"
+         ry="8.9035664"
+         y="652.36218"
+         x="30"
+         height="109.99998"
          width="190"
          id="rect3757-1-9-5-3-6-8"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3798-5-5-7-1-8"
-         y="532.36218"
-         x="440"
+         y="672.36218"
+         x="40"
          style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-           y="532.36218"
-           x="440"
+           y="672.36218"
+           x="40"
            id="tspan3800-6-7-1-7-6"
            sodipodi:role="line">streams</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3915-2-3-23-8"
-         y="552.36218"
-         x="440"
+         y="692.36218"
+         x="40"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
            id="tspan5546"
-           y="552.36218"
-           x="440"
+           y="692.36218"
+           x="40"
            sodipodi:role="line">cat    head  tail</tspan><tspan
            id="tspan5552"
-           y="567.36218"
-           x="440"
-           sodipodi:role="line">grep   tr</tspan><tspan
+           y="707.36218"
+           x="40"
+           sodipodi:role="line">awk    grep  sed    tr</tspan><tspan
            id="tspan5558"
-           y="582.36218"
-           x="440"
+           y="722.36218"
+           x="40"
            sodipodi:role="line">rev    shuf  sort   uniq</tspan><tspan
            id="tspan5562"
-           y="597.36218"
-           x="440"
+           y="737.36218"
+           x="40"
            sodipodi:role="line">seq    wc</tspan><tspan
-           id="tspan5560"
-           y="612.36218"
-           x="440"
-           sodipodi:role="line">column cut   paste  tee</tspan><tspan
            id="tspan6230"
-           y="627.36218"
-           x="440"
-           sodipodi:role="line">awk    sed</tspan></text>
+           y="752.36218"
+           x="40"
+           sodipodi:role="line">column cut   paste  tee</tspan></text>
     </g>
     <flowRoot
        xml:space="preserve"
@@ -1147,7 +1105,7 @@ AAAASUVORK5CYII=
            height="167.23335"
            x="356.07553"
            y="338.22476" /></flowRegion><flowPara
-         id="flowPara5574"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5574" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5576"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Monospace;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Monospace;font-stretch:normal;font-variant:normal"><flowRegion
@@ -1157,7 +1115,7 @@ AAAASUVORK5CYII=
            height="126.83429"
            x="-199.1768"
            y="435.93414" /></flowRegion><flowPara
-         id="flowPara5582"></flowPara></flowRoot>    <g
+         id="flowPara5582" /></flowRoot>    <g
        id="g5614"
        transform="translate(-130,40)">
       <rect
@@ -1586,7 +1544,7 @@ AAAASUVORK5CYII=
            id="tspan6425"
            y="937.36218"
            x="940"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan6427"
            y="952.36218"
            x="940"
