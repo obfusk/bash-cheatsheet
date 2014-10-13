@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -793,7 +793,7 @@
            id="tspan4104"
            y="992.36218"
            x="40"
-           sodipodi:role="line"></tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan4110"
            y="1007.3622"
            x="40"
@@ -1469,7 +1469,7 @@
            y="812.36218"
            x="600"
            sodipodi:role="line"
-           id="tspan6032">if -e existing_file ]; then echo YES; else echo NO; fi</tspan><tspan
+           id="tspan6032">if [ -e existing_file ]; then echo YES; else echo NO; fi</tspan><tspan
            id="tspan6105"
            y="827.36218"
            x="600"
