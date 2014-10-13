@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="bash-cheatsheet.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.064381"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1676"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3759"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="37.580528"
+       y="42.278095"
+       id="text3761"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan3763"
+         x="37.580528"
+         y="42.278095" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="30.064425"
+       y="33.822475"
+       id="text3765"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan3767"
+         x="30.064425"
+         y="33.822475" /></text>
+    <g
+       id="g4676"
+       transform="translate(0,-470)">
+      <rect
+         ry="4.0470757"
+         y="982.36218"
+         x="30"
+         height="49.999996"
+         width="160"
+         id="rect3757-4"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3794-9"
+         y="1002.3622"
+         x="40"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="1002.3622"
+           x="40"
+           id="tspan3796-4"
+           sodipodi:role="line">special characters</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3850"
+         y="1022.3622"
+         x="40"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1022.3622"
+           x="40"
+           id="tspan3852"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">~`#$&amp;*()\|[]{};'&quot;/?!</tspan></text>
+    </g>
+    <g
+       id="g4663"
+       transform="translate(0,-470)">
+      <rect
+         ry="5.665906"
+         y="902.36218"
+         x="30"
+         height="69.999992"
+         width="120"
+         id="rect3757-1"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798"
+         y="922.36218"
+         x="40"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="922.36218"
+           x="40"
+           id="tspan3800"
+           sodipodi:role="line">getting help</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3873"
+         y="942.36218"
+         x="40"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="942.36218"
+           x="40"
+           id="tspan3875"
+           sodipodi:role="line">help &lt;builtin&gt;</tspan><tspan
+           y="957.36218"
+           x="40"
+           sodipodi:role="line"
+           id="tspan3909">man &lt;command&gt;</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="40"
+       y="962.36218"
+       id="text3877"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3879"
+         x="40"
+         y="962.36218" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="370"
+       y="432.36218"
+       id="text3911"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3913"
+         x="370"
+         y="432.36218" /></text>
+    <g
+       id="g6682"
+       transform="translate(100,-20)">
+      <rect
+         ry="13.760057"
+         y="512.36218"
+         x="210"
+         height="169.99998"
+         width="210"
+         id="rect3757-1-9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5"
+         y="532.36218"
+         x="220"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="532.36218"
+           x="220"
+           id="tspan3800-6"
+           sodipodi:role="line">files and directories</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915"
+         y="552.36218"
+         x="220"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="552.36218"
+           x="220"
+           id="tspan3917"
+           sodipodi:role="line">ls -hl --color=auto</tspan><tspan
+           id="tspan6431"
+           y="567.36218"
+           x="220"
+           sodipodi:role="line" /><tspan
+           id="tspan4111"
+           y="582.36218"
+           x="220"
+           sodipodi:role="line">cd     pwd    pushd  popd</tspan><tspan
+           id="tspan3923"
+           y="597.36218"
+           x="220"
+           sodipodi:role="line">cp     ln     mv     rm</tspan><tspan
+           id="tspan3919"
+           y="612.36218"
+           x="220"
+           sodipodi:role="line">mkdir  rmdir         rename</tspan><tspan
+           id="tspan3921"
+           y="627.36218"
+           x="220"
+           sodipodi:role="line">chown  chmod  umask</tspan><tspan
+           id="tspan3925"
+           y="642.36218"
+           x="220"
+           sodipodi:role="line">du     stat   touch</tspan><tspan
+           id="tspan5928"
+           y="657.36218"
+           x="220"
+           sodipodi:role="line">file   test   which</tspan><tspan
+           id="tspan6142"
+           y="672.36218"
+           x="220"
+           sodipodi:role="line">basename      dirname</tspan></text>
+    </g>
+    <g
+       id="g6411"
+       transform="translate(100,-560)">
+      <rect
+         ry="11.331812"
+         y="902.36218"
+         x="200"
+         height="139.99998"
+         width="210"
+         id="rect3757"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3794"
+         y="922.36218"
+         x="210"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="922.36218"
+           x="210"
+           id="tspan3796"
+           sodipodi:role="line">redirecting I/O</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3927"
+         y="942.36218"
+         x="210"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="942.36218"
+           x="210"
+           id="tspan3929"
+           sodipodi:role="line">command &gt; file</tspan><tspan
+           id="tspan3931"
+           y="957.36218"
+           x="210"
+           sodipodi:role="line">command &gt;&gt; append</tspan><tspan
+           id="tspan3933"
+           y="972.36218"
+           x="210"
+           sodipodi:role="line">command 2&gt; errors</tspan><tspan
+           id="tspan3935"
+           y="987.36218"
+           x="210"
+           sodipodi:role="line">command &lt; input-file</tspan><tspan
+           id="tspan3937"
+           y="1002.3622"
+           x="210"
+           sodipodi:role="line">command &gt;&amp;2 # to stderr</tspan><tspan
+           id="tspan3941"
+           y="1017.3622"
+           x="210"
+           sodipodi:role="line">command &lt;&lt;&lt;&quot;this is input&quot;</tspan><tspan
+           y="1032.3622"
+           x="210"
+           sodipodi:role="line"
+           id="tspan6397">command &gt;/dev/null # bye</tspan><tspan
+           id="tspan3939"
+           y="1047.3622"
+           x="210"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g6970"
+       transform="translate(10,20)">
+      <rect
+         ry="5.6659064"
+         y="842.36218"
+         x="450"
+         height="70"
+         width="110"
+         id="rect3757-1-9-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5"
+         y="862.36218"
+         x="460"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="862.36218"
+           x="460"
+           id="tspan3800-6-7"
+           sodipodi:role="line">filesystems</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2"
+         y="882.36218"
+         x="460"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5"
+           y="882.36218"
+           x="460"
+           sodipodi:role="line">mount   fsck</tspan><tspan
+           id="tspan6968"
+           y="897.36218"
+           x="460"
+           sodipodi:role="line">df      dd</tspan></text>
+    </g>
+    <g
+       id="g6772"
+       transform="translate(-420,-40)">
+      <rect
+         ry="5.665906"
+         y="552.36218"
+         x="1090"
+         height="69.999992"
+         width="90"
+         id="rect3757-1-9-5-3"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7"
+         y="572.36218"
+         x="1100"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="572.36218"
+           x="1100"
+           id="tspan3800-6-7-1"
+           sodipodi:role="line">system</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3"
+         y="592.36218"
+         x="1100"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5-9"
+           y="592.36218"
+           x="1100"
+           sodipodi:role="line">free  top</tspan><tspan
+           id="tspan6276"
+           y="607.36218"
+           x="1100"
+           sodipodi:role="line">su    sudo</tspan></text>
+    </g>
+    <g
+       id="g6534"
+       transform="translate(220,-220)">
+      <rect
+         ry="8.0941515"
+         y="562.36218"
+         x="300"
+         height="99.999992"
+         width="200"
+         id="rect3757-1-9-5-3-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-0"
+         y="582.36218"
+         x="310"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="582.36218"
+           x="310"
+           id="tspan3800-6-7-1-6"
+           sodipodi:role="line">processes &amp; signals</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-2"
+         y="602.36218"
+         x="310"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan4101"
+           y="602.36218"
+           x="310"
+           sodipodi:role="line">in-background &amp;</tspan><tspan
+           id="tspan4107"
+           y="617.36218"
+           x="310"
+           sodipodi:role="line">bg      fg     jobs   ^Z</tspan><tspan
+           id="tspan5303"
+           y="632.36218"
+           x="310"
+           sodipodi:role="line">sleep   wait   kill    ps</tspan><tspan
+           id="tspan5380"
+           y="647.36218"
+           x="310"
+           sodipodi:role="line">nohup   trap</tspan></text>
+    </g>
+    <g
+       id="g6577"
+       transform="translate(-200,-10)">
+      <rect
+         ry="21.04479"
+         y="352.36218"
+         x="970"
+         height="259.99997"
+         width="250"
+         id="rect3757-1-9-4"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-59"
+         y="372.36218"
+         x="980"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="372.36218"
+           x="980"
+           id="tspan3800-6-9"
+           sodipodi:role="line">variables</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-3"
+         y="392.36218"
+         x="980"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3956-7"
+           y="392.36218"
+           x="980"
+           sodipodi:role="line">foo=&quot;some value&quot;</tspan><tspan
+           id="tspan4186"
+           y="407.36218"
+           x="980"
+           sodipodi:role="line" /><tspan
+           id="tspan5128"
+           y="422.36218"
+           x="980"
+           sodipodi:role="line">echo $foo</tspan><tspan
+           id="tspan4190"
+           y="437.36218"
+           x="980"
+           sodipodi:role="line">echo &quot;$foo&quot;</tspan><tspan
+           id="tspan4308"
+           y="452.36218"
+           x="980"
+           sodipodi:role="line">echo &quot;${foo:0:4}&quot; # &quot;some&quot;</tspan><tspan
+           id="tspan4310"
+           y="467.36218"
+           x="980"
+           sodipodi:role="line">echo ${foo:+alternative}</tspan><tspan
+           id="tspan4312"
+           y="482.36218"
+           x="980"
+           sodipodi:role="line">echo ${foo:-default}</tspan><tspan
+           id="tspan4316"
+           y="497.36218"
+           x="980"
+           sodipodi:role="line">: ${foo:=asigned_default}</tspan><tspan
+           id="tspan4318"
+           y="512.36218"
+           x="980"
+           sodipodi:role="line">echo ${#foo} # length</tspan><tspan
+           id="tspan4320"
+           y="527.36218"
+           x="980"
+           sodipodi:role="line">echo ${foo#prefix} # rm prefix</tspan><tspan
+           id="tspan4322"
+           y="542.36218"
+           x="980"
+           sodipodi:role="line">echo ${foo%.ext}   # rm suffix</tspan><tspan
+           id="tspan4324"
+           y="557.36218"
+           x="980"
+           sodipodi:role="line">echo ${foo/some/replaced}</tspan><tspan
+           id="tspan3925-3"
+           y="572.36218"
+           x="980"
+           sodipodi:role="line" /><tspan
+           id="tspan5144"
+           y="587.36218"
+           x="980"
+           sodipodi:role="line">declare   export   local   unset</tspan><tspan
+           id="tspan5800"
+           y="602.36218"
+           x="980"
+           sodipodi:role="line">env</tspan></text>
+    </g>
+    <g
+       id="g6525"
+       transform="translate(90,-30)">
+      <rect
+         ry="6.4753213"
+         y="642.36218"
+         x="660"
+         height="79.999992"
+         width="270"
+         id="rect3757-1-9-0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-2"
+         y="662.36218"
+         x="670"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="662.36218"
+           x="670"
+           id="tspan3800-6-8"
+           sodipodi:role="line">special variables</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-1"
+         y="682.36218"
+         x="670"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-7"
+           y="682.36218"
+           x="670"
+           sodipodi:role="line">$?   $!   $@   $1   $2   ...</tspan><tspan
+           id="tspan4444"
+           y="697.36218"
+           x="670"
+           sodipodi:role="line">$PATH   $HOME   $LINES   $COLUMNS</tspan><tspan
+           id="tspan5446"
+           y="712.36218"
+           x="670"
+           sodipodi:role="line">$PS1                     shift</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4446"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Monospace;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Monospace;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4448"><rect
+           id="rect4450"
+           width="339.16428"
+           height="159.71725"
+           x="405.86972"
+           y="479.15176" /></flowRegion><flowPara
+         id="flowPara4452"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4454"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Monospace;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Monospace;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4456"><rect
+           id="rect4458"
+           width="286.55154"
+           height="90.193268"
+           x="601.28845"
+           y="574.98212" /></flowRegion><flowPara
+         id="flowPara4460"></flowPara></flowRoot>    <g
+       id="g4622"
+       transform="translate(10,-280)">
+      <rect
+         ry="6.4753213"
+         y="952.36218"
+         x="420"
+         height="79.999992"
+         width="100"
+         id="rect3757-1-9-5-3-2"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-5"
+         y="972.36218"
+         x="430"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="972.36218"
+           x="430"
+           id="tspan3800-6-7-1-5"
+           sodipodi:role="line">shell scripts</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-7"
+         y="992.36218"
+         x="430"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5-9-7"
+           y="992.36218"
+           x="430"
+           sodipodi:role="line">#!/bin/bash</tspan><tspan
+           id="tspan4507"
+           y="1007.3622"
+           x="430"
+           sodipodi:role="line">set -e</tspan><tspan
+           id="tspan4509"
+           y="1022.3622"
+           x="430"
+           sodipodi:role="line"># ...</tspan></text>
+    </g>
+    <g
+       id="g5223">
+      <rect
+         ry="6.4753213"
+         y="342.36218"
+         x="30"
+         height="79.999992"
+         width="260"
+         id="rect3757-1-9-5-3-3"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-3"
+         y="362.36218"
+         x="40"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="362.36218"
+           x="40"
+           id="tspan3800-6-7-1-0"
+           sodipodi:role="line">bash cheat sheet</tspan><tspan
+           id="tspan4550"
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="377.36218"
+           x="40"
+           sodipodi:role="line" /><tspan
+           id="tspan4552"
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="392.36218"
+           x="40"
+           sodipodi:role="line">Copyright (C) 2014</tspan><tspan
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="407.36218"
+           x="40"
+           sodipodi:role="line"
+           id="tspan6980">Felix C. Stegerman &lt;flx@obfusk.net&gt;</tspan><tspan
+           id="tspan4554"
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="422.36218"
+           x="40"
+           sodipodi:role="line" /><tspan
+           id="tspan4556"
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="437.36218"
+           x="40"
+           sodipodi:role="line" /></text>
+      <image
+         width="88"
+         height="31"
+         xlink:href="data:image/png;base64,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
+AAAASUVORK5CYII=
+"
+         id="image4566"
+         x="182"
+         y="351.36218" />
+    </g>
+    <g
+       id="g6920"
+       transform="translate(10,-1.9531262e-7)">
+      <rect
+         ry="6.4753213"
+         y="942.36218"
+         x="340"
+         height="79.999992"
+         width="230"
+         id="rect3757-1-9-5-3-6"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-1"
+         y="962.36218"
+         x="350"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="962.36218"
+           x="350"
+           id="tspan3800-6-7-1-7"
+           sodipodi:role="line">key bindings</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-23"
+         y="982.36218"
+         x="350"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5-9-9"
+           y="982.36218"
+           x="350"
+           sodipodi:role="line">^C SIGTERM   ^D EOF</tspan><tspan
+           id="tspan4734"
+           y="997.36218"
+           x="350"
+           sodipodi:role="line">^A home      ^E end   ^L clear</tspan><tspan
+           id="tspan5426"
+           y="1012.3622"
+           x="350"
+           sodipodi:role="line">TAB complete  UP/DOWN history</tspan></text>
+    </g>
+    <g
+       id="g6945">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-3-8"
+         y="842.36218"
+         x="40"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan5623"
+           y="842.36218"
+           x="40"
+           sodipodi:role="line">id        groups  who</tspan><tspan
+           id="tspan6220"
+           y="857.36218"
+           x="40"
+           sodipodi:role="line">mktemp    renice</tspan><tspan
+           id="tspan6222"
+           y="872.36218"
+           x="40"
+           sodipodi:role="line">printf    iconv   strings</tspan><tspan
+           id="tspan6218"
+           y="887.36218"
+           x="40"
+           sodipodi:role="line" /><tspan
+           id="tspan5566"
+           y="902.36218"
+           x="40"
+           sodipodi:role="line">crontab   time    watch</tspan><tspan
+           id="tspan5307"
+           y="917.36218"
+           x="40"
+           sodipodi:role="line">tar       zip</tspan><tspan
+           id="tspan5001"
+           y="932.36218"
+           x="40"
+           sodipodi:role="line">whiptail  zenity</tspan><tspan
+           id="tspan4999"
+           y="947.36218"
+           x="40"
+           sodipodi:role="line" /><tspan
+           id="tspan6228"
+           y="962.36218"
+           x="40"
+           sodipodi:role="line">perl      python  ruby</tspan><tspan
+           id="tspan5637"
+           y="977.36218"
+           x="40"
+           sodipodi:role="line">less      nano    vim</tspan><tspan
+           id="tspan5629"
+           y="992.36218"
+           x="40"
+           sodipodi:role="line">mutt      rsync   screen</tspan><tspan
+           id="tspan5941"
+           y="1007.3622"
+           x="40"
+           sodipodi:role="line">ack       diff    git</tspan></text>
+      <rect
+         ry="17.807133"
+         y="802.36218"
+         x="30"
+         height="219.99997"
+         width="200"
+         id="rect3757-1-9-4-0-2"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-59-9-4"
+         y="822.36218"
+         x="40"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="822.36218"
+           x="40"
+           id="tspan3800-6-9-3-7"
+           sodipodi:role="line">miscellaneous</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="660"
+       y="372.36218"
+       id="text3915-3-8-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="660"
+         y="372.36218"
+         id="tspan6214" /></text>
+    <g
+       id="g6901"
+       transform="translate(350,150)">
+      <rect
+         ry="9.7129822"
+         y="752.36218"
+         x="-110"
+         height="119.99998"
+         width="100"
+         id="rect3757-1-9-4-0-2-1"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-59-9-4-7"
+         y="772.36218"
+         x="-100"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="772.36218"
+           x="-100"
+           id="tspan3800-6-9-3-7-6"
+           sodipodi:role="line">networking</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-3-8-1-6"
+         y="792.36218"
+         x="-100"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan4999-0-9"
+           y="792.36218"
+           x="-100"
+           sodipodi:role="line">hostname</tspan><tspan
+           y="807.36218"
+           x="-100"
+           sodipodi:role="line"
+           id="tspan6881">ifconfig</tspan><tspan
+           y="822.36218"
+           x="-100"
+           sodipodi:role="line"
+           id="tspan6885">ping</tspan><tspan
+           y="837.36218"
+           x="-100"
+           sodipodi:role="line"
+           id="tspan6889">curl  wget</tspan><tspan
+           y="852.36218"
+           x="-100"
+           sodipodi:role="line"
+           id="tspan6887">nc</tspan></text>
+    </g>
+    <g
+       id="g6854"
+       transform="translate(-480,-180)">
+      <rect
+         ry="6.4753213"
+         y="772.36218"
+         x="1020"
+         height="79.999992"
+         width="200"
+         id="rect3757-1-9-5-3-34"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-7"
+         y="792.36218"
+         x="1030"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="792.36218"
+           x="1030"
+           id="tspan3800-6-7-1-2"
+           sodipodi:role="line">arrays</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-72"
+         y="812.36218"
+         x="1030"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5-9-3"
+           y="812.36218"
+           x="1030"
+           sodipodi:role="line">my_ary=( foo bar &quot;a b c&quot; )</tspan><tspan
+           id="tspan5283"
+           y="827.36218"
+           x="1030"
+           sodipodi:role="line">echo &quot;${my_ary[2]}&quot;</tspan><tspan
+           id="tspan5285"
+           y="842.36218"
+           x="1030"
+           sodipodi:role="line">command &quot;${my_ary[@]}&quot;</tspan></text>
+    </g>
+    <g
+       id="g6090"
+       transform="translate(-110,-110)">
+      <rect
+         ry="6.4753213"
+         y="792.36218"
+         x="660"
+         height="79.999992"
+         width="190"
+         id="rect3757-1-9-5-32"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-9"
+         y="812.36218"
+         x="670"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="812.36218"
+           x="670"
+           id="tspan3800-6-7-6"
+           sodipodi:role="line">find</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-9"
+         y="832.36218"
+         x="670"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan5372"
+           y="832.36218"
+           x="670"
+           sodipodi:role="line">find /foo /bar -type d \</tspan><tspan
+           id="tspan5376"
+           y="847.36218"
+           x="670"
+           sodipodi:role="line">  -print0 | sort -z | \</tspan><tspan
+           id="tspan6088"
+           y="862.36218"
+           x="670"
+           sodipodi:role="line">  xargs -0 rmdir</tspan></text>
+    </g>
+    <g
+       id="g6450"
+       transform="translate(-630,-370)">
+      <rect
+         ry="5.665906"
+         y="942.36218"
+         x="660"
+         height="69.999992"
+         width="270"
+         id="rect3757-1-9-5-3-9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-06"
+         y="962.36218"
+         x="670"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="962.36218"
+           x="670"
+           id="tspan3800-6-7-1-67"
+           sodipodi:role="line">quoting</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-9"
+         y="982.36218"
+         x="670"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan5416"
+           y="982.36218"
+           x="670"
+           sodipodi:role="line">echo 'single-quoted: &quot;hi!&quot; ...'</tspan><tspan
+           id="tspan5424"
+           y="997.36218"
+           x="670"
+           sodipodi:role="line">echo &quot;double-quoted: '\$foo=$foo'&quot;</tspan></text>
+    </g>
+    <g
+       id="g6144"
+       transform="translate(730,-250)">
+      <rect
+         ry="5.665906"
+         y="762.36218"
+         x="-200"
+         height="69.999992"
+         width="130"
+         id="rect3757-1-9-5-3-9-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-06-0"
+         y="782.36218"
+         x="-190"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="782.36218"
+           x="-190"
+           id="tspan3800-6-7-1-67-6"
+           sodipodi:role="line">globbing</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-9-9"
+         y="802.36218"
+         x="-190"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan5424-7"
+           y="802.36218"
+           x="-190"
+           sodipodi:role="line">ls ?[^a-z]*</tspan><tspan
+           id="tspan5493"
+           y="817.36218"
+           x="-190"
+           sodipodi:role="line">mv foo-{bar,baz}</tspan></text>
+    </g>
+    <g
+       id="g6707"
+       transform="translate(-400,140)">
+      <rect
+         ry="10.522397"
+         y="512.36218"
+         x="430"
+         height="129.99998"
+         width="190"
+         id="rect3757-1-9-5-3-6-8"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-1-8"
+         y="532.36218"
+         x="440"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="532.36218"
+           x="440"
+           id="tspan3800-6-7-1-7-6"
+           sodipodi:role="line">streams</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-23-8"
+         y="552.36218"
+         x="440"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan5546"
+           y="552.36218"
+           x="440"
+           sodipodi:role="line">cat    head  tail</tspan><tspan
+           id="tspan5552"
+           y="567.36218"
+           x="440"
+           sodipodi:role="line">grep   tr</tspan><tspan
+           id="tspan5558"
+           y="582.36218"
+           x="440"
+           sodipodi:role="line">rev    shuf  sort   uniq</tspan><tspan
+           id="tspan5562"
+           y="597.36218"
+           x="440"
+           sodipodi:role="line">seq    wc</tspan><tspan
+           id="tspan5560"
+           y="612.36218"
+           x="440"
+           sodipodi:role="line">column cut   paste  tee</tspan><tspan
+           id="tspan6230"
+           y="627.36218"
+           x="440"
+           sodipodi:role="line">awk    sed</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5568"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Monospace;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Monospace;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion5570"><rect
+           id="rect5572"
+           width="312.85791"
+           height="167.23335"
+           x="356.07553"
+           y="338.22476" /></flowRegion><flowPara
+         id="flowPara5574"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5576"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Monospace;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Monospace;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion5578"><rect
+           id="rect5580"
+           width="317.55548"
+           height="126.83429"
+           x="-199.1768"
+           y="435.93414" /></flowRegion><flowPara
+         id="flowPara5582"></flowPara></flowRoot>    <g
+       id="g5614"
+       transform="translate(-130,40)">
+      <rect
+         ry="4.0470757"
+         y="802.36218"
+         x="370"
+         height="49.999996"
+         width="200"
+         id="rect3757-1-9-5-6"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-91"
+         y="822.36218"
+         x="380"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="822.36218"
+           x="380"
+           id="tspan3800-6-7-9"
+           sodipodi:role="line">printing</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-2"
+         y="842.36218"
+         x="380"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5-3"
+           y="842.36218"
+           x="380"
+           sodipodi:role="line">lpr   lpq   lprm   lpstat</tspan></text>
+    </g>
+    <g
+       id="g5792"
+       transform="translate(130,40)">
+      <rect
+         ry="5.665906"
+         y="632.36218"
+         x="100.00001"
+         height="69.999992"
+         width="190"
+         id="rect3757-1-9-5-6-8"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-91-4"
+         y="652.36218"
+         x="110"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="652.36218"
+           x="110"
+           id="tspan3800-6-7-9-3"
+           sodipodi:role="line">command substitution</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-2-0"
+         y="672.36218"
+         x="110"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5-3-4"
+           y="672.36218"
+           x="110"
+           sodipodi:role="line">cmd1 &quot;$(cmd2 ...)&quot;</tspan><tspan
+           y="687.36218"
+           x="110"
+           sodipodi:role="line"
+           id="tspan5782">diff &lt;( cmd1 ) &lt;( cmd2 )</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="110"
+       y="732.36218"
+       id="text3915-2-2-0-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="110"
+         y="732.36218"
+         id="tspan3925-5-3-4-8" /></text>
+    <g
+       id="g6660"
+       transform="translate(500,-170)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-91-4-3"
+         y="892.36218"
+         x="470"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="892.36218"
+           x="470"
+           id="tspan3800-6-7-9-3-9"
+           sodipodi:role="line">pipes</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5750"
+         y="892.36218"
+         x="270"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan5754"
+           y="892.36218"
+           x="270"
+           sodipodi:role="line">cmd1 | cmd2 | cmd3</tspan><tspan
+           id="tspan5756"
+           y="907.36218"
+           x="270"
+           sodipodi:role="line">echo ${PIPESTATUS[@]}</tspan><tspan
+           id="tspan5849"
+           y="922.36218"
+           x="270"
+           sodipodi:role="line">mkfifo a b; cmd1 &lt;a &gt;b; cmd2 &lt;b &gt;a</tspan></text>
+      <rect
+         ry="4.8564906"
+         y="872.36218"
+         x="260"
+         height="59.999992"
+         width="260"
+         id="rect3757-1-9-5-3-6-1"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g6871"
+       transform="translate(240,-20)">
+      <rect
+         ry="5.6659064"
+         y="802.36218"
+         x="250"
+         height="69.999992"
+         width="70"
+         id="rect3757-1-9-5-6-9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-91-6"
+         y="822.36218"
+         x="260"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="822.36218"
+           x="260"
+           id="tspan3800-6-7-9-38"
+           sodipodi:role="line">locales</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-2-4"
+         y="842.36218"
+         x="260"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5-3-9"
+           y="842.36218"
+           x="260"
+           sodipodi:role="line">locale</tspan><tspan
+           y="857.36218"
+           x="260"
+           sodipodi:role="line"
+           id="tspan6863">$LC_*</tspan></text>
+    </g>
+    <g
+       id="g5981"
+       transform="translate(100,-140)">
+      <rect
+         ry="4.0470757"
+         y="652.36218"
+         x="100"
+         height="49.999996"
+         width="90"
+         id="rect3757-1-9-5-6-3"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-91-2"
+         y="672.36218"
+         x="110"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="672.36218"
+           x="110"
+           id="tspan3800-6-7-9-7"
+           sodipodi:role="line">options</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-2-48"
+         y="692.36218"
+         x="110"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan3925-5-3-2"
+           y="692.36218"
+           x="110"
+           sodipodi:role="line">set  shopt</tspan></text>
+    </g>
+    <g
+       id="g6202"
+       transform="translate(-290,-180)">
+      <rect
+         ry="5.6659055"
+         y="612.36218"
+         x="470"
+         height="69.999992"
+         width="80"
+         id="rect3757-1-9-5-3-9-5-2"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-06-0-0"
+         y="632.36218"
+         x="480"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="632.36218"
+           x="480"
+           id="tspan3800-6-7-1-67-6-9"
+           sodipodi:role="line">history</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-9-9-8"
+         y="652.36218"
+         x="480"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan6196"
+           y="652.36218"
+           x="480"
+           sodipodi:role="line">history</tspan><tspan
+           id="tspan6200"
+           y="667.36218"
+           x="480"
+           sodipodi:role="line">!!  !foo</tspan></text>
+    </g>
+    <g
+       id="g6264"
+       transform="translate(-730,-200)">
+      <rect
+         ry="5.665906"
+         y="962.36218"
+         x="970"
+         height="69.999992"
+         width="230"
+         id="rect3757-1-9-5-6-8-0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-91-4-1"
+         y="982.36218"
+         x="980"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="982.36218"
+           x="980"
+           id="tspan3800-6-7-9-3-7"
+           sodipodi:role="line">arithmetic</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-2-0-6"
+         y="1002.3622"
+         x="980"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="1002.3622"
+           x="980"
+           sodipodi:role="line"
+           id="tspan5782-8">(( i = 99, j = i * i ))</tspan><tspan
+           id="tspan5918"
+           y="1017.3622"
+           x="980"
+           sodipodi:role="line">echo $(( i == 99 ? 42 : 37 ))</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6234"
+         y="992.36218"
+         x="1170"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="992.36218"
+           x="1170"
+           id="tspan6236"
+           sodipodi:role="line">bc</tspan></text>
+    </g>
+    <g
+       id="g6327"
+       transform="translate(-130,-120)">
+      <rect
+         ry="4.0470757"
+         y="572.36218"
+         x="700"
+         height="49.999996"
+         width="190"
+         id="rect3757-1-9-5-6-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-91-7"
+         y="592.36218"
+         x="710"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="592.36218"
+           x="710"
+           id="tspan3800-6-7-9-5"
+           sodipodi:role="line">exit codes ($?)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-2-9"
+         y="612.36218"
+         x="710"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="612.36218"
+           x="710"
+           sodipodi:role="line"
+           id="tspan6315">0 success    &gt;0 failure</tspan><tspan
+           y="627.36218"
+           x="710"
+           sodipodi:role="line"
+           id="tspan6319" /></text>
+    </g>
+    <g
+       id="g7009">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-91-4-3-3"
+         y="792.36218"
+         x="600"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="792.36218"
+           x="600"
+           id="tspan3800-6-7-9-3-9-4"
+           sodipodi:role="line">scripting</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5750-0"
+         y="812.36218"
+         x="600"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="812.36218"
+           x="600"
+           sodipodi:role="line"
+           id="tspan6032">if -e existing_file ]; then echo YES; else echo NO; fi</tspan><tspan
+           id="tspan6105"
+           y="827.36218"
+           x="600"
+           sodipodi:role="line">while read -r; do echo &quot;[$REPLY]&quot;; done</tspan><tspan
+           id="tspan6107"
+           y="842.36218"
+           x="600"
+           sodipodi:role="line">for x in &quot;$@&quot;; do echo &quot;[$x]&quot;; done</tspan><tspan
+           id="tspan6111"
+           y="857.36218"
+           x="600"
+           sodipodi:role="line">for (( i=0; i&lt;10; ++i )); do echo &quot;$i&quot;; done</tspan><tspan
+           y="872.36218"
+           x="600"
+           sodipodi:role="line"
+           id="tspan6138">case foo in f*) echo Y;; *) echo N;; esac</tspan><tspan
+           y="887.36218"
+           x="600"
+           sodipodi:role="line"
+           id="tspan6134">select x in A B C; do echo $x; [ -z &quot;$x&quot; ] || break; done</tspan><tspan
+           id="tspan6060"
+           y="902.36218"
+           x="600"
+           sodipodi:role="line" /><tspan
+           y="917.36218"
+           x="600"
+           sodipodi:role="line"
+           id="tspan6034">[[ &quot;$x&quot; =~ ^foo ]]</tspan><tspan
+           id="tspan6070"
+           y="932.36218"
+           x="600"
+           sodipodi:role="line">cmd1 &amp;&amp; cmd2   cmd1 || true   !false</tspan><tspan
+           id="tspan6076"
+           y="947.36218"
+           x="600"
+           sodipodi:role="line">( echo &quot;subshell&quot; )   { cmd1; cmd2; cmd3; }</tspan><tspan
+           id="tspan6082"
+           y="962.36218"
+           x="600"
+           sodipodi:role="line" /><tspan
+           id="tspan6086"
+           y="977.36218"
+           x="600"
+           sodipodi:role="line">foo () { echo HI; } # function</tspan><tspan
+           id="tspan6101"
+           y="992.36218"
+           x="600"
+           sodipodi:role="line" /><tspan
+           id="tspan6103"
+           y="1007.3622"
+           x="600"
+           sodipodi:role="line">eval &quot;$hopefully_not_evil_code&quot;                  </tspan></text>
+      <rect
+         ry="20.235378"
+         y="772.36218"
+         x="590"
+         height="249.99997"
+         width="430"
+         id="rect3757-1-9-5-3-6-1-4"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6335"
+         y="922.36218"
+         x="940"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan6343"
+           y="922.36218"
+           x="940"
+           sodipodi:role="line">source</tspan><tspan
+           id="tspan6425"
+           y="937.36218"
+           x="940"
+           sodipodi:role="line"></tspan><tspan
+           id="tspan6427"
+           y="952.36218"
+           x="940"
+           sodipodi:role="line">getopts</tspan><tspan
+           id="tspan6385"
+           y="967.36218"
+           x="940"
+           sodipodi:role="line" /><tspan
+           id="tspan6391"
+           y="982.36218"
+           x="940"
+           sodipodi:role="line">exit</tspan><tspan
+           id="tspan6389"
+           y="997.36218"
+           x="940"
+           sodipodi:role="line">return</tspan></text>
+      <rect
+         ry="4.7942286"
+         y="902.36218"
+         x="930"
+         height="110"
+         width="70"
+         id="rect6982"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
