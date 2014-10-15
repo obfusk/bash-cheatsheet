@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -428,15 +428,15 @@
            id="tspan4107"
            y="617.36218"
            x="310"
-           sodipodi:role="line">bg      fg     jobs   ^Z</tspan><tspan
+           sodipodi:role="line">bg     fg    jobs   ^Z</tspan><tspan
            id="tspan5303"
            y="632.36218"
            x="310"
-           sodipodi:role="line">sleep   wait   kill    ps</tspan><tspan
+           sodipodi:role="line">sleep  wait  kill   ps</tspan><tspan
            id="tspan5380"
            y="647.36218"
            x="310"
-           sodipodi:role="line">nohup   trap</tspan></text>
+           sodipodi:role="line">nohup  trap  pgrep  pkill</tspan></text>
     </g>
     <g
        id="g6577"
@@ -472,62 +472,62 @@
            y="392.36218"
            x="980"
            sodipodi:role="line">foo=&quot;some value&quot;</tspan><tspan
-           id="tspan4186"
            y="407.36218"
+           x="980"
+           sodipodi:role="line"
+           id="tspan4112">foo=bar some_command</tspan><tspan
+           id="tspan4186"
+           y="422.36218"
            x="980"
            sodipodi:role="line" /><tspan
            id="tspan5128"
-           y="422.36218"
+           y="437.36218"
            x="980"
            sodipodi:role="line">echo $foo</tspan><tspan
            id="tspan4190"
-           y="437.36218"
-           x="980"
-           sodipodi:role="line">echo &quot;$foo&quot;</tspan><tspan
-           id="tspan4308"
            y="452.36218"
            x="980"
-           sodipodi:role="line">echo &quot;${foo:0:4}&quot; # &quot;some&quot;</tspan><tspan
-           id="tspan4310"
+           sodipodi:role="line">echo &quot;$foo&quot;         # quotes!</tspan><tspan
            y="467.36218"
            x="980"
-           sodipodi:role="line">echo ${foo:+alternative}</tspan><tspan
-           id="tspan4312"
+           sodipodi:role="line"
+           id="tspan4118">echo &quot;${#foo}&quot;      # length</tspan><tspan
+           id="tspan4308"
            y="482.36218"
            x="980"
-           sodipodi:role="line">echo ${foo:-default}</tspan><tspan
-           id="tspan4316"
+           sodipodi:role="line">echo &quot;${foo:0:4}&quot;   # &quot;some&quot;</tspan><tspan
+           id="tspan4310"
            y="497.36218"
            x="980"
-           sodipodi:role="line">: ${foo:=asigned_default}</tspan><tspan
-           id="tspan4318"
+           sodipodi:role="line">echo &quot;${foo:+alternative}&quot;</tspan><tspan
+           id="tspan4312"
            y="512.36218"
            x="980"
-           sodipodi:role="line">echo ${#foo} # length</tspan><tspan
-           id="tspan4320"
+           sodipodi:role="line">echo &quot;${foo:-default}&quot;</tspan><tspan
+           id="tspan4318"
            y="527.36218"
            x="980"
-           sodipodi:role="line">echo ${foo#prefix} # rm prefix</tspan><tspan
-           id="tspan4322"
+           sodipodi:role="line">: ${foo:=set_default}</tspan><tspan
+           id="tspan4320"
            y="542.36218"
            x="980"
-           sodipodi:role="line">echo ${foo%.ext}   # rm suffix</tspan><tspan
-           id="tspan4324"
+           sodipodi:role="line">echo &quot;${foo#prefix}&quot; # rm prefix</tspan><tspan
+           id="tspan4322"
            y="557.36218"
            x="980"
-           sodipodi:role="line">echo ${foo/some/replaced}</tspan><tspan
-           id="tspan3925-3"
+           sodipodi:role="line">echo &quot;${foo%.ext}&quot;   # rm suffix</tspan><tspan
+           id="tspan4324"
            y="572.36218"
            x="980"
-           sodipodi:role="line" /><tspan
-           id="tspan5144"
+           sodipodi:role="line">echo &quot;${foo/some/replaced}&quot;</tspan><tspan
+           id="tspan3925-3"
            y="587.36218"
            x="980"
-           sodipodi:role="line">declare   export   local   unset</tspan><tspan
+           sodipodi:role="line" /><tspan
            id="tspan5800"
            y="602.36218"
            x="980"
-           sodipodi:role="line">env</tspan></text>
+           sodipodi:role="line">declare env export local unset</tspan></text>
     </g>
     <g
        id="g6525"
@@ -562,7 +562,7 @@
            id="tspan3925-7"
            y="682.36218"
            x="670"
-           sodipodi:role="line">$?   $!   $@   $1   $2   ...</tspan><tspan
+           sodipodi:role="line">$?  $!  $#  $@  $*  $1  $2  ...</tspan><tspan
            id="tspan4444"
            y="697.36218"
            x="670"
@@ -663,23 +663,28 @@
            x="40"
            sodipodi:role="line" /><tspan
            id="tspan4552"
-           style="font-weight:normal;-inkscape-font-specification:Sans"
+           style="font-weight:normal;-inkscape-font-specification:Sans;font-size:10px"
            y="392.36218"
            x="40"
            sodipodi:role="line">Copyright (C) 2014</tspan><tspan
-           style="font-weight:normal;-inkscape-font-specification:Sans"
+           style="font-weight:normal;-inkscape-font-specification:Sans;font-size:10px"
            y="407.36218"
            x="40"
            sodipodi:role="line"
            id="tspan6980">Felix C. Stegerman &lt;flx@obfusk.net&gt;</tspan><tspan
-           id="tspan4554"
-           style="font-weight:normal;-inkscape-font-specification:Sans"
+           style="font-weight:normal;-inkscape-font-specification:Sans;font-size:10px"
            y="422.36218"
+           x="40"
+           sodipodi:role="line"
+           id="tspan3281">https://github.com/obfusk/bash-cheatsheet</tspan><tspan
+           id="tspan4554"
+           style="font-weight:normal;-inkscape-font-specification:Sans;font-size:10px"
+           y="437.36218"
            x="40"
            sodipodi:role="line" /><tspan
            id="tspan4556"
            style="font-weight:normal;-inkscape-font-specification:Sans"
-           y="437.36218"
+           y="452.36218"
            x="40"
            sodipodi:role="line" /></text>
       <image
@@ -742,62 +747,62 @@
          x="40"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
-           id="tspan5623"
            y="812.36218"
            x="40"
-           sodipodi:role="line">id        groups  who</tspan><tspan
-           id="tspan6220"
+           sodipodi:role="line"
+           id="tspan4402">mktemp            renice</tspan><tspan
+           id="tspan6218"
            y="827.36218"
            x="40"
-           sodipodi:role="line">mktemp    renice</tspan><tspan
-           id="tspan6222"
+           sodipodi:role="line">printf    iconv   strings</tspan><tspan
+           id="tspan5566"
            y="842.36218"
            x="40"
-           sodipodi:role="line">printf    iconv   strings</tspan><tspan
-           id="tspan6218"
+           sodipodi:role="line">id        groups  who</tspan><tspan
            y="857.36218"
            x="40"
-           sodipodi:role="line" /><tspan
-           id="tspan5566"
-           y="872.36218"
-           x="40"
-           sodipodi:role="line">crontab   time    watch</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4396">crontab   time    watch</tspan><tspan
            id="tspan5307"
-           y="887.36218"
+           y="872.36218"
            x="40"
            sodipodi:role="line">tar       zip</tspan><tspan
            id="tspan5001"
-           y="902.36218"
+           y="887.36218"
            x="40"
            sodipodi:role="line">whiptail  zenity</tspan><tspan
            id="tspan6228"
-           y="917.36218"
+           y="902.36218"
            x="40"
            sodipodi:role="line">perl      python  ruby</tspan><tspan
            id="tspan5629"
-           y="932.36218"
+           y="917.36218"
            x="40"
            sodipodi:role="line">less      nano    vim</tspan><tspan
            id="tspan5941"
-           y="947.36218"
+           y="932.36218"
            x="40"
            sodipodi:role="line">ack       git     tree</tspan><tspan
            id="tspan4095"
-           y="962.36218"
+           y="947.36218"
            x="40"
            sodipodi:role="line">diff      patch</tspan><tspan
-           id="tspan4102"
-           y="977.36218"
+           id="tspan4104"
+           y="962.36218"
            x="40"
            sodipodi:role="line">cal       date</tspan><tspan
-           id="tspan4104"
+           y="977.36218"
+           x="40"
+           sodipodi:role="line"
+           id="tspan4406" /><tspan
+           id="tspan4110"
            y="992.36218"
            x="40"
-           sodipodi:role="line" /><tspan
-           id="tspan4110"
+           sodipodi:role="line">mutt      rsync   screen</tspan><tspan
            y="1007.3622"
            x="40"
-           sodipodi:role="line">mutt      rsync   screen</tspan></text>
+           sodipodi:role="line"
+           id="tspan4408">xdg-open</tspan></text>
       <rect
          ry="20.235378"
          y="772.36218"
@@ -946,7 +951,7 @@
            y="812.36218"
            x="670"
            id="tspan3800-6-7-6"
-           sodipodi:role="line">find</tspan></text>
+           sodipodi:role="line">find &amp; xargs</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3915-2-9"
@@ -966,45 +971,6 @@
            y="862.36218"
            x="670"
            sodipodi:role="line">  xargs -0 rmdir</tspan></text>
-    </g>
-    <g
-       id="g6450"
-       transform="translate(-630,-370)">
-      <rect
-         ry="5.665906"
-         y="942.36218"
-         x="660"
-         height="69.999992"
-         width="270"
-         id="rect3757-1-9-5-3-9"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3798-5-5-7-06"
-         y="962.36218"
-         x="670"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-           y="962.36218"
-           x="670"
-           id="tspan3800-6-7-1-67"
-           sodipodi:role="line">quoting</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3915-2-3-9"
-         y="982.36218"
-         x="670"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-         xml:space="preserve"><tspan
-           id="tspan5416"
-           y="982.36218"
-           x="670"
-           sodipodi:role="line">echo 'single-quoted: &quot;hi!&quot; ...'</tspan><tspan
-           id="tspan5424"
-           y="997.36218"
-           x="670"
-           sodipodi:role="line">echo &quot;double-quoted: '\$foo=$foo'&quot;</tspan></text>
     </g>
     <g
        id="g6144"
@@ -1229,7 +1195,7 @@
            id="tspan5756"
            y="907.36218"
            x="270"
-           sodipodi:role="line">echo ${PIPESTATUS[@]}</tspan><tspan
+           sodipodi:role="line">echo &quot;${PIPESTATUS[@]}&quot;</tspan><tspan
            id="tspan5849"
            y="922.36218"
            x="270"
@@ -1318,42 +1284,41 @@
            sodipodi:role="line">set  shopt</tspan></text>
     </g>
     <g
-       id="g6202"
-       transform="translate(-290,-180)">
+       id="g4064">
       <rect
          ry="5.6659055"
-         y="612.36218"
-         x="470"
+         y="432.36218"
+         x="180"
          height="69.999992"
-         width="80"
+         width="110"
          id="rect3757-1-9-5-3-9-5-2"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3798-5-5-7-06-0-0"
-         y="632.36218"
-         x="480"
+         y="452.36218"
+         x="190"
          style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-           y="632.36218"
-           x="480"
+           y="452.36218"
+           x="190"
            id="tspan3800-6-7-1-67-6-9"
            sodipodi:role="line">history</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3915-2-3-9-9-8"
-         y="652.36218"
-         x="480"
+         y="472.36218"
+         x="190"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
            id="tspan6196"
-           y="652.36218"
-           x="480"
-           sodipodi:role="line">history</tspan><tspan
+           y="472.36218"
+           x="190"
+           sodipodi:role="line">history    ^R</tspan><tspan
            id="tspan6200"
-           y="667.36218"
-           x="480"
+           y="487.36218"
+           x="190"
            sodipodi:role="line">!!  !foo</tspan></text>
     </g>
     <g
@@ -1446,7 +1411,7 @@
            id="tspan6319" /></text>
     </g>
     <g
-       id="g7009">
+       id="g4367">
       <text
          sodipodi:linespacing="125%"
          id="text3798-5-5-91-4-3-3"
@@ -1469,59 +1434,59 @@
            y="812.36218"
            x="600"
            sodipodi:role="line"
-           id="tspan6032">if [ -e existing_file ]; then echo YES; else echo NO; fi</tspan><tspan
-           id="tspan6105"
+           id="tspan6032">if test -e file; then echo EXISTS; else echo NOPE; fi</tspan><tspan
            y="827.36218"
+           x="600"
+           sodipodi:role="line"
+           id="tspan4130">if [ -e x ]; then A; elif [ -e y ]; then B; else C; fi</tspan><tspan
+           id="tspan6105"
+           y="842.36218"
            x="600"
            sodipodi:role="line">while read -r; do echo &quot;[$REPLY]&quot;; done</tspan><tspan
            id="tspan6107"
-           y="842.36218"
+           y="857.36218"
            x="600"
            sodipodi:role="line">for x in &quot;$@&quot;; do echo &quot;[$x]&quot;; done</tspan><tspan
            id="tspan6111"
-           y="857.36218"
-           x="600"
-           sodipodi:role="line">for (( i=0; i&lt;10; ++i )); do echo &quot;$i&quot;; done</tspan><tspan
            y="872.36218"
            x="600"
-           sodipodi:role="line"
-           id="tspan6138">case foo in f*) echo Y;; *) echo N;; esac</tspan><tspan
+           sodipodi:role="line">for (( i=0; i&lt;10; ++i )); do echo &quot;$i&quot;; done</tspan><tspan
            y="887.36218"
            x="600"
            sodipodi:role="line"
-           id="tspan6134">select x in A B C; do echo $x; [ -z &quot;$x&quot; ] || break; done</tspan><tspan
-           id="tspan6060"
+           id="tspan6138">case &quot;$x&quot; in foo*) echo Y;; *) echo N;; esac</tspan><tspan
            y="902.36218"
            x="600"
-           sodipodi:role="line" /><tspan
+           sodipodi:role="line"
+           id="tspan6134">select x in A B C; do echo $x; [ -z &quot;$x&quot; ] || break; done</tspan><tspan
            y="917.36218"
            x="600"
            sodipodi:role="line"
-           id="tspan6034">[[ &quot;$x&quot; =~ ^foo ]]</tspan><tspan
-           id="tspan6070"
+           id="tspan4221" /><tspan
            y="932.36218"
            x="600"
-           sodipodi:role="line">cmd1 &amp;&amp; cmd2   cmd1 || true   !false</tspan><tspan
-           id="tspan6076"
+           sodipodi:role="line"
+           id="tspan4207">[[ &quot;$x&quot; =~ ^foo ]]</tspan><tspan
            y="947.36218"
            x="600"
-           sodipodi:role="line">( echo &quot;subshell&quot; )   { cmd1; cmd2; cmd3; }</tspan><tspan
-           id="tspan6082"
+           sodipodi:role="line"
+           id="tspan4223">cmd1 &amp;&amp; cmd2   cmd || true   !false</tspan><tspan
            y="962.36218"
            x="600"
-           sodipodi:role="line" /><tspan
-           id="tspan6086"
+           sodipodi:role="line"
+           id="tspan4209">( echo &quot;subshell&quot; )   { cmd1; cmd2; cmd3; }</tspan><tspan
            y="977.36218"
            x="600"
-           sodipodi:role="line">foo () { echo HI; } # function</tspan><tspan
-           id="tspan6101"
+           sodipodi:role="line"
+           id="tspan4211">eval &quot;$hopefully_not_evil_code&quot;</tspan><tspan
            y="992.36218"
            x="600"
-           sodipodi:role="line" /><tspan
+           sodipodi:role="line"
+           id="tspan4213">                                   # function</tspan><tspan
            id="tspan6103"
            y="1007.3622"
            x="600"
-           sodipodi:role="line">eval &quot;$hopefully_not_evil_code&quot;                  </tspan></text>
+           sodipodi:role="line">say_hi () { local you=&quot;$1&quot;; echo &quot;Hi $you&quot;; }</tspan></text>
       <rect
          ry="20.235378"
          y="772.36218"
@@ -1533,42 +1498,98 @@
       <text
          sodipodi:linespacing="125%"
          id="text6335"
-         y="922.36218"
-         x="940"
+         y="942.36218"
+         x="950"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
-           id="tspan6343"
-           y="922.36218"
-           x="940"
-           sodipodi:role="line">source</tspan><tspan
-           id="tspan6425"
-           y="937.36218"
-           x="940"
-           sodipodi:role="line" /><tspan
-           id="tspan6427"
-           y="952.36218"
-           x="940"
+           id="tspan4305"
+           y="942.36218"
+           x="950"
+           sodipodi:role="line">test  [</tspan><tspan
+           id="tspan4307"
+           y="957.36218"
+           x="950"
            sodipodi:role="line">getopts</tspan><tspan
-           id="tspan6385"
-           y="967.36218"
-           x="940"
-           sodipodi:role="line" /><tspan
            id="tspan6391"
-           y="982.36218"
-           x="940"
-           sodipodi:role="line">exit</tspan><tspan
+           y="972.36218"
+           x="950"
+           sodipodi:role="line">source</tspan><tspan
+           y="987.36218"
+           x="950"
+           sodipodi:role="line"
+           id="tspan4137">exit</tspan><tspan
            id="tspan6389"
-           y="997.36218"
-           x="940"
+           y="1002.3622"
+           x="950"
            sodipodi:role="line">return</tspan></text>
       <rect
-         ry="4.7942286"
-         y="902.36218"
-         x="930"
-         height="110"
+         ry="3.9225509"
+         y="922.36218"
+         x="940"
+         height="90"
          width="70"
          id="rect6982"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <g
+       id="g4094">
+      <rect
+         ry="5.665906"
+         y="572.36218"
+         x="30"
+         height="69.999992"
+         width="270"
+         id="rect3757-1-9-5-3-9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3798-5-5-7-06"
+         y="592.36218"
+         x="40"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           y="592.36218"
+           x="40"
+           id="tspan3800-6-7-1-67"
+           sodipodi:role="line">quoting</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3915-2-3-9"
+         y="612.36218"
+         x="40"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan5416"
+           y="612.36218"
+           x="40"
+           sodipodi:role="line">echo 'single-quoted: &quot;hi!&quot; ...'</tspan><tspan
+           id="tspan5424"
+           y="627.36218"
+           x="40"
+           sodipodi:role="line">echo &quot;double-quoted: '\$foo=$foo'&quot;</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4078"
+         y="592.36218"
+         x="160"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           id="tspan4090"
+           y="592.36218"
+           x="160"
+           sodipodi:role="line">cmd &quot;one argument&quot;</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="910"
+       y="632.36218"
+       id="text4104"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4106"
+         x="910"
+         y="632.36218"># quote &quot;$@&quot; !</tspan></text>
   </g>
 </svg>
